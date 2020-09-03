@@ -36,7 +36,7 @@ Type=Application
 ############################ test it ##################################
 
 double left click notify.desktop
-if all goes well a notify top right of screen will show i love linux :)
+if all goes well a notify top right of screen will show I Love Linux Mint :)
 
 ############################ edit launcher#############################
 
