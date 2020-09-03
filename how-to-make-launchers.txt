@@ -32,4 +32,13 @@ create your own image in gimp for your script launchers.
 or edit launcher code right click notify.desktop launcher
 and open with text editor.
 
+##########################icon size####################################
+common linux icon size 
+Object and document " 24x24, 48x48, and 96x96"   pixels	
+Application " 24x24, 48x48 " 	 pixels
+Toolbar " 24x24, 48x48 " 	 pixels
+Menu " 16x16 "  pixels
+
+save as image.png
+
 ######################################################################
