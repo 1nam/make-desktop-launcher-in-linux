@@ -1,0 +1,32 @@
+############################# make script ##############################
+open text editor copy paste code below.
+save as notify.sh
+######################################################################
+
+#!/bin/bash
+
+notify-send " I Love Linux Mint :)"
+
+
+################ make desktop launcher ##############################
+open text editor
+add this code below
+change the log in name to your log in name.
+then save the launcher as    notify.desktop
+######################### launcher code #############################
+
+[Desktop Entry]
+Name=Clean
+Exec=/home/log_in_name_here/Desktop/notify.sh
+Comment=runs in terminal
+Terminal=true
+Icon=accessories-system-cleaner
+Type=Application
+
+############################ edit launcher#############################
+
+right click launcher open with text editor for editing
+click on image top left in launcher to change image.
+create your own image in gimp for your script launchers.
+
+######################################################################
