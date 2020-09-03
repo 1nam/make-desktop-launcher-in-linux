@@ -6,7 +6,7 @@ path info:
 to get the path to the script right click script
 and choose Properties then copy Location: /home/name/foldername/filename.sh
 now right click file.desktop launcher choose text editor
-delete and paste the new path where it says Exec.
+delete and paste the new path where it says Exec. then save close window. 
 ################################################################################
 
 ready to make a bash script Launcher!
