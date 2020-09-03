@@ -33,6 +33,11 @@ Terminal=true
 Icon=knotify
 Type=Application
 
+############################ test it ##################################
+
+double left click notify.desktop
+if all goes well a notify top right of screen will show i love linux :)
+
 ############################ edit launcher#############################
 
 right click notify.desktop launcher choose Properties for editing
