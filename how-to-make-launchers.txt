@@ -1,6 +1,7 @@
 note: create script and launcher on the desktop once the launcher is made 
 you can move the script in to another folder and easy change the path in 
 the notify.desktop launcher
+OS used making this Linux Mint 20 Ulyana 64bit
 ############################# make script ##############################                    
 
 open text editor copy paste code below.
@@ -24,6 +25,8 @@ add this code below
 change the log in name to your log in name.
 then save the launcher as    notify.desktop
 ######################### launcher code #############################
+
+#!/usr/bin/env xdg-open
 
 [Desktop Entry]
 Name=notify
