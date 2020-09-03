@@ -1,6 +1,16 @@
 note: create script and launcher on the desktop once the launcher is made 
 you can move the script in to another folder and easy change the path in 
-the notify.desktop launcher
+the notify.desktop launcher. 
+##############################################################################
+path info:
+to get the path to the script right click script
+and choose Properties then copy Location: /home/name/foldername/filename.sh
+now right click file.desktop launcher choose text editor
+delete and paste the new path where it says Exec.
+################################################################################
+
+ready to make a bash script Launcher!
+
 OS used making this Linux Mint 20 Ulyana 64bit
 ############################# make script ##############################                    
 
