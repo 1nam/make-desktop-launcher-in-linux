@@ -5,12 +5,18 @@ the notify.desktop launcher
 
 open text editor copy paste code below.
 save as notify.sh
+
 ######################################################################
 
 #!/bin/bash
 
 notify-send " I Love Linux Mint :)"
 
+################ Allow executing script ############################## 
+
+right click script choose Properties
+click Permissions tab
+check mark Allow executing file as program then close window.
 
 ################ make desktop launcher ##############################
 open text editor
