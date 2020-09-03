@@ -25,8 +25,11 @@ Type=Application
 
 ############################ edit launcher#############################
 
-right click launcher choose Properties for editing
-click on image top left in launcher to change image.
+right click notify.desktop launcher choose Properties for editing
+left click on image top left in launcher to change image.
 create your own image in gimp for your script launchers.
+
+or edit launcher code right click notify.desktop launcher
+and open with text editor.
 
 ######################################################################
