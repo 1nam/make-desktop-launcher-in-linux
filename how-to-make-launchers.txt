@@ -39,6 +39,6 @@ Application " 24x24, 48x48 " 	 pixels
 Toolbar " 24x24, 48x48 " 	 pixels
 Menu " 16x16 "  pixels
 
-save as image.png
+save as or export as   image.png
 
 ######################################################################
