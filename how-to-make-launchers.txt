@@ -16,7 +16,7 @@ then save the launcher as    notify.desktop
 ######################### launcher code #############################
 
 [Desktop Entry]
-Name=Clean
+Name=notify
 Exec=/home/log_in_name_here/Desktop/notify.sh
 Comment=runs in terminal
 Terminal=true
