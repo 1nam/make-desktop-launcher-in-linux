@@ -1,8 +1,12 @@
 note: create script and launcher on the desktop once the launcher is made 
 you can move the script in to another folder and easy change the path in 
 the notify.desktop launcher. 
-##############################################################################
-path info:
+##############################################################################  side note: when creating files and folder paths use lower case with no spaces
+                                                                                           the launcher will not read spaces in a path example below
+                                                                                                     myfolder      this directory works
+                                                                                                     my folder     this directory does not work
+path info:                                                                                 if you must be able to read the file use capitol like this
+                                                                                                     MyFolder      still readable with no spaces.
 to get the path to the script right click script
 and choose Properties then copy Location: /home/name/foldername/filename.sh
 now right click file.desktop launcher choose text editor
